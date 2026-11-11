@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Bàn phím không dây",
+    "price": 425000,
+    "soluong": 6,
+    "image": "https://res.cloudinary.com/dzivajta9/image/upload/v1794386945/BEF889EB-A947-4DF5-9B9F-670C2E04C8E0_m8lxmo.jpg"
+  },
+  {
+    "name": "Đồng hồ đeo tay thông minh",
+    "price": 355000,
+    "soluong": 2,
+    "image": "https://res.cloudinary.com/dzivajta9/image/upload/v1794386900/CE36EA02-6EA2-4491-A7DD-8467CE076658_hsfthf.jpg"
+  },
+  {
+    "name": "Chuột không dây",
+    "price": 120000,
+    "soluong": 150,
+    "image": "https://res.cloudinary.com/dzivajta9/image/upload/v1794386752/D7586AFD-ECBC-4B8F-B290-F231C0447E08_fxoxc1.jpg"
+  },
+  {
+    "name": "Điện thoại iphone 18 promax",
+    "price": 18000000,
+    "soluong": 13,
+    "image": "https://res.cloudinary.com/dzivajta9/image/upload/v1794386554/63715C98-E28C-470E-93BE-DCB5E19A17EC_gtb2um.jpg"
+  },
+  {
+    "name": "Tai nghe",
+    "price": 250000,
+    "soluong": 120,
+    "image": "https://res.cloudinary.com/dzivajta9/image/upload/v1794386716/86A7563E-24F3-46C3-936E-1CCAC469A870_nxaqnq.jpg"
+  },
+  {
+    "name": "Ốp lưng ipad màu kem",
+    "price": 99000,
+    "soluong": 202,
+    "image": "https://res.cloudinary.com/dzivajta9/image/upload/v1794386797/B3311338-FACB-4B2E-BBB3-E8D0FF65A4FA_d8j0lo.jpg"
+  }
+]
